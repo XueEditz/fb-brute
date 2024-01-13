@@ -68,9 +68,9 @@ def welcome():
         +=========================================+
         |..........   Facebook Crack Brute   ...........|
         +-----------------------------------------+
-        |            #Author: Technical Dipesh          | 
+        |            #Author: Yukinori ʚĭɞ              | 
         |	       Version 1.0                      |
- 	|   https://www.youtube.com/channel/UCXuKDM3J_GkCxmdki8Hxh4w      |
+ 	|         https://facebook.com/yukinori69       |
         +=========================================+
         |..........  fb-brute  ...........|
         +-----------------------------------------+\n\n
